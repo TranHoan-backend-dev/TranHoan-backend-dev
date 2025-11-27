@@ -82,8 +82,8 @@ Backend Developer with hands-on experience building scalable **web** and **mobil
 > 🚀 **IMS** is a modern recruitment support platform designed to make the company’s hiring process easier, more convenient, and more professional.
 > 🚀 This system was developed by a 6-member team at **FSA** as part of a full-cycle software development project.
 
-**Tech:** Java, Spring Boot, Python, Thymeleaf, MySQL
-**Summary:** Candidate & job position management, interview scheduling with notifications, role-based access control, internal messaging & chatbot support, multi-language static content.
+**Tech:** Java, Spring Boot, Python, Thymeleaf, MySQL<br/>
+**Summary:** Candidate & job position management, interview scheduling with notifications, role-based access control, internal messaging & chatbot support, multi-language static content.<br/>
 **Repo:** [GitHub](https://github.com/TranHoan-backend-dev/Interview-Management-System)
 
 ---
@@ -92,8 +92,8 @@ Backend Developer with hands-on experience building scalable **web** and **mobil
 
 > 🚀 **LabVerse** is an Android application designed to support laboratories and research teams in discovering, organizing, annotating, and collaborating on academic research papers.
 
-**Tech:** Android (Java), React Vite (Typescript, Tailwindcss), Microservices (Java + Kotlin), Room, Firebase, Cloudinary, AWS S3
-**Summary:** Secure registration/login, personal library dashboard, advanced search & filtering, PDF reader with annotations, shared collections for collaboration, reference & citation management, reading status & personalized alerts.
+**Tech:** Android (Java), React Vite (Typescript, Tailwindcss), Microservices (Java + Kotlin), Room, Firebase, Cloudinary, AWS S3<br/>
+**Summary:** Secure registration/login, personal library dashboard, advanced search & filtering, PDF reader with annotations, shared collections for collaboration, reference & citation management, reading status & personalized alerts.<br/>
 **Repo:** [GitHub](https://github.com/TranHoan-backend-dev/LabVerse)
 
 ---
@@ -102,8 +102,8 @@ Backend Developer with hands-on experience building scalable **web** and **mobil
 
 > 🚀 **Quezee** is an online quiz practice platform designed to provide learners with a flexible and effective self-study experience.
 
-**Tech:** Java Servlet, JavaScript, JSP, JSTL, MySQL
-**Summary:** Quiz practice by subject/topic, lesson browsing, user registration/login, personal progress tracking, chatbot guidance, marketing modules.
+**Tech:** Java Servlet, JavaScript, JSP, JSTL, MySQL<br/>
+**Summary:** Quiz practice by subject/topic, lesson browsing, user registration/login, personal progress tracking, chatbot guidance, marketing modules.<br/>
 **Repo:** [GitHub](https://github.com/TranHoan-backend-dev/Quiz-Practice-System)
 
 ---
