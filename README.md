@@ -50,8 +50,6 @@ Backend Developer with hands-on experience building scalable **web** and **mobil
 
 ### Other
 
-![JWT](https://img.shields.io/badge/-JWT-000000?logo=JSONwebtokens&logoColor=white&style=for-the-badge)
-![REST API](https://img.shields.io/badge/-REST%20API-FF6C37?logo=rest&logoColor=white&style=for-the-badge)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
 
